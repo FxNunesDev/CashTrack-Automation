@@ -56,11 +56,14 @@ pip install -r requirements.txt
 python selenium_cashtrack_v5.py
 ```
 
+---
+
 ## Estrutura do Projeto
 
-bash
+```´bash
 /rpa
 /regras
 /ofx
 /logs
 /docs
+```
