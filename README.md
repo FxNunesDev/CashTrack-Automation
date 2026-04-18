@@ -1,4 +1,4 @@
-# CashTrack-Automation-Bank
+# CashTrack-Automation
 Automação em Python para importação OFX, classificação financeira e aumento de produtividade operacional no CashTrack.
 
 ---
