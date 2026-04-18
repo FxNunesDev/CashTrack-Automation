@@ -1,5 +1,3 @@
-# CashTrack-Automation
-
 # CashTrack Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,9 +39,18 @@ Reduzir trabalho manual, padronizar lançamentos financeiros e acelerar rotinas 
 
 ---
 
-## Estrutura do Projeto
+## Como Executar
 
 ```bash
+git clone https://github.com/FxNunesDev/CashTrack-Automation.git
+cd CashTrack-Automation
+pip install -r requirements.txt
+python selenium_cashtrack_v5.py
+```
+
+## Estrutura do Projeto
+
+bash
 /rpa
 /regras
 /ofx
