@@ -1,4 +1,12 @@
 # CashTrack-Automation
+
+# CashTrack Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-RPA-success?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Finance-Productivity-blue?style=for-the-badge)
+
+Automação em Python para importação OFX, classificação financeira e aumento de produtividade operacional no CashTrack.
 Automação em Python para importação OFX, classificação financeira e aumento de produtividade operacional no CashTrack.
 
 ---
