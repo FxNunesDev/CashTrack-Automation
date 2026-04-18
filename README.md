@@ -5,7 +5,6 @@
 ![Finance](https://img.shields.io/badge/Finance-Productivity-blue?style=for-the-badge)
 
 Automação em Python para importação OFX, classificação financeira e aumento de produtividade operacional no CashTrack.
-Automação em Python para importação OFX, classificação financeira e aumento de produtividade operacional no CashTrack.
 
 ---
 
@@ -25,6 +24,15 @@ Reduzir trabalho manual, padronizar lançamentos financeiros e acelerar rotinas 
 ✅ Redução de erros manuais  
 ✅ Ganho de velocidade operacional
 
+---
+
+## Resultados Reais
+
+- Redução de tempo em tarefas operacionais repetitivas
+- Padronização de lançamentos financeiros
+- Menor índice de erro manual
+- Maior velocidade no processo de conciliação
+  
 ---
 
 ## Tecnologias Utilizadas
