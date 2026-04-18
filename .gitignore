@@ -1,0 +1,23 @@
+/.venv
+/ARQUIVO FOLHA ANTIGO
+
+# Ambiente
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Dados e artefatos gerados
+*.csv
+*.ofx
+*.pdf
+*.log
+log_*.txt
+
+# Pastas especificas
+diagnostics/
+data7_monitor/saida/
+**/saida/
+**/tmp_edge_pdf_profile/
