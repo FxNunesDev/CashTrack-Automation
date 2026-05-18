@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="CashTrack Automation placeholder visual">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="110" r="120" fill="#22c55e" fill-opacity="0.16"/>
+  <circle cx="150" cy="540" r="160" fill="#38bdf8" fill-opacity="0.14"/>
+  <rect x="72" y="76" width="1056" height="478" rx="28" fill="url(#card)" stroke="#ffffff" stroke-opacity="0.16"/>
+  <text x="110" y="180" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">CashTrack Automation</text>
+  <text x="110" y="245" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="30">Placeholder visual for public portfolio</text>
+  <text x="110" y="295" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Replace with screenshots or diagrams when available.</text>
+  <rect x="110" y="360" width="300" height="96" rx="18" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="150" y="415" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Finance automation</text>
+  <rect x="440" y="360" width="300" height="96" rx="18" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="480" y="415" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Rules-based processing</text>
+  <rect x="770" y="360" width="300" height="96" rx="18" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.18"/>
+  <text x="810" y="415" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Operational productivity</text>
+</svg>
