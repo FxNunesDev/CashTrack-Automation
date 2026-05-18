@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="CashTrack Automation flow placeholder visual">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#14532d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="82" y="112" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Workflow placeholder</text>
+  <text x="82" y="162" fill="#d1fae5" font-family="Segoe UI, Arial, sans-serif" font-size="24">Use this area later for a process diagram without real data.</text>
+  <g fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.22">
+    <rect x="82" y="240" width="250" height="140" rx="22"/>
+    <rect x="388" y="240" width="250" height="140" rx="22"/>
+    <rect x="694" y="240" width="250" height="140" rx="22"/>
+    <rect x="1000" y="240" width="118" height="140" rx="22"/>
+  </g>
+  <g fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">
+    <text x="122" y="304">Input</text>
+    <text x="432" y="304">Rules</text>
+    <text x="724" y="304">Processing</text>
+    <text x="1018" y="304">Output</text>
+  </g>
+</svg>
